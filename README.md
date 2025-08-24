@@ -70,8 +70,8 @@ This will save three PNG files in the project directory for evaluation:
 
 ## TEP_Train_Test_with_anomalies_FINAL.csv: A copy of the original dataset with 8 new columns:
 
-# Abnormality_score: A score from 0 to 100 indicating the severity of the anomaly.
+### Abnormality_score: A score from 0 to 100 indicating the severity of the anomaly.
 
-# top_feature_1 to top_feature_7: The names of the features that contributed most to the anomaly score.
+### top_feature_1 to top_feature_7: The names of the features that contributed most to the anomaly score.
 
 ## Graph Images (.png): Visualizations of the model's performance.
